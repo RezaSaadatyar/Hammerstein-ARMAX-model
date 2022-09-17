@@ -1,5 +1,4 @@
-# -Hammerstein-ARMAX-model
-##### Identification of Hammerstein nonlinear ARMAX systems
+***Identification of Hammerstein nonlinear ARMAX systems***
 ###### This repository includes the MATLAB codes of Identifying general Hammerstein nonlinear ARMAX systems parametrically using iterative and recursive algorithms 
 ###### Presented by: Reza Saadatyar 
 ###### Reza.Saadatyar@outlook.com 
